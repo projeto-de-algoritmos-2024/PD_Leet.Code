@@ -10,15 +10,15 @@
 | 18/0119508  |  Eric Chagas de Oliveira |
 
 ## Sobre 
-Para desenvolver o conteúdo abordado no tópico de PD, resolvemos exercícios do LeetCode, sendo eles, de nível difícil e de nível médio.
+Para desenvolver o conteúdo abordado no tópico de Programação Dinâmica, resolvemos exercícios do LeetCode, sendo eles, de nível difícil e de nível médio.
 
 ## Screenshots
 
-- [818 (Difícil) - Race Car](https://leetcode.com/problems/race-car/description/)
-<img width="734" alt="Race Car" src="https://github.com/projeto-de-algoritmos-2024/Greedy_LeetCode/blob/master/images/818.png">
+- [10 (Difícil) - Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
+<img width="734" alt="Regular Expression Matching" src="https://github.com/projeto-de-algoritmos-2024/PD_Leet.Code/blob/master/images/10.png">
 
-- [420 (Difícil) - Strong Password Checker](https://leetcode.com/problems/strong-password-checker/description/)
-<img width="734" alt="Strong Password Checker" src="https://github.com/projeto-de-algoritmos-2024/Greedy_LeetCode/blob/master/images/420.png">
+- [32 (Difícil) - Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)
+<img width="734" alt="Longest Valid Parentheses" src="https://github.com/projeto-de-algoritmos-2024/PD_Leet.Code/blob/master/images/32.png">
 
 - [134 (Médio) - Gas Station](https://leetcode.com/problems/gas-station/description/)
 <img width="734" alt="Gas Station" src="https://github.com/projeto-de-algoritmos-2024/Greedy_LeetCode/blob/master/images/134.png">
@@ -44,8 +44,8 @@ git clone https://github.com/projeto-de-algoritmos-2024/PD_Leet.Code
 ### 2. Python
 
 ```bash
-python3 134_gas_station.py
-python3 420_strong_password_checker.py
+python3 10_regular_expression_matching.py
+python3 32_longest_valid_parentheses.py
 python3 818_race_car.py
 python3 76_minimum_window_substring.py
 python3 410_split_array_largest_sum.py
