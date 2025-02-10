@@ -20,17 +20,17 @@ Para desenvolver o conteúdo abordado no tópico de Programação Dinâmica, res
 - [32 (Difícil) - Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)
 <img width="734" alt="Longest Valid Parentheses" src="https://github.com/projeto-de-algoritmos-2024/PD_Leet.Code/blob/master/images/32.png">
 
-- [134 (Médio) - Gas Station](https://leetcode.com/problems/gas-station/description/)
-<img width="734" alt="Gas Station" src="https://github.com/projeto-de-algoritmos-2024/Greedy_LeetCode/blob/master/images/134.png">
+- [85 (Difícil) - Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)
+<img width="734" alt="Maximal Rectangle" src="https://github.com/projeto-de-algoritmos-2024/PD_Leet.Code/blob/master/images/85.png">
 
-- [76 (Difícil) - Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
-<img width="734" alt="Minimum Window Substring" src="https://github.com/projeto-de-algoritmos-2024/Greedy_LeetCode/blob/master/images/76.png">
+- [ (Difícil) - ]()
+<img width="734" alt="" src="https://github.com/projeto-de-algoritmos-2024/PD_Leet.Code/blob/master/images/.png">
 
-- [ 410 (Difícil) - Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/)
-<img width="734" alt="Split Array Largest Sum" src="https://github.com/projeto-de-algoritmos-2024/Greedy_LeetCode/blob/master/images/410.png">
+- [ (Difícil) - ]()
+<img width="734" alt="" src="https://github.com/projeto-de-algoritmos-2024/PD_Leet.Code/blob/master/images/.png">
 
-- [ 68 (Difícil) - Text Justification](https://leetcode.com/problems/text-justification/description/)
-<img width="734" alt="Text Justification" src="https://github.com/projeto-de-algoritmos-2024/Greedy_LeetCode/blob/master/images/68.png">
+- [ (Difícil) - ]()
+<img width="734" alt="" src="https://github.com/projeto-de-algoritmos-2024/PD_Leet.Code/blob/master/images/.png">
 
 ## Instalação 
 **Linguagem**: Python<br>
