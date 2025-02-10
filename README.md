@@ -23,8 +23,8 @@ Para desenvolver o conteúdo abordado no tópico de Programação Dinâmica, res
 - [85 (Difícil) - Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)
 <img width="734" alt="Maximal Rectangle" src="https://github.com/projeto-de-algoritmos-2024/PD_Leet.Code/blob/master/images/85.png">
 
-- [ (Difícil) - ]()
-<img width="734" alt="" src="https://github.com/projeto-de-algoritmos-2024/PD_Leet.Code/blob/master/images/.png">
+- [115 (Difícil) - Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)
+<img width="734" alt="Distinct Subsequences" src="https://github.com/projeto-de-algoritmos-2024/PD_Leet.Code/blob/master/images/115.png">
 
 - [ (Difícil) - ]()
 <img width="734" alt="" src="https://github.com/projeto-de-algoritmos-2024/PD_Leet.Code/blob/master/images/.png">
