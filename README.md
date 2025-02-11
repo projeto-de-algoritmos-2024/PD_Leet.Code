@@ -10,7 +10,7 @@
 | 18/0119508  |  Eric Chagas de Oliveira |
 
 ## Sobre 
-Para desenvolver o conteúdo abordado no tópico de Programação Dinâmica, resolvemos exercícios do LeetCode, sendo eles, de nível difícil e de nível médio.
+Para desenvolver o conteúdo abordado no tópico de Programação Dinâmica, resolvemos exercícios do LeetCode, sendo eles, todos de nível difícil.
 
 ## Screenshots
 
@@ -26,11 +26,8 @@ Para desenvolver o conteúdo abordado no tópico de Programação Dinâmica, res
 - [115 (Difícil) - Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)
 <img width="734" alt="Distinct Subsequences" src="https://github.com/projeto-de-algoritmos-2024/PD_Leet.Code/blob/master/images/115.png">
 
-- [ (Difícil) - ]()
-<img width="734" alt="" src="https://github.com/projeto-de-algoritmos-2024/PD_Leet.Code/blob/master/images/.png">
-
-- [ (Difícil) - ]()
-<img width="734" alt="" src="https://github.com/projeto-de-algoritmos-2024/PD_Leet.Code/blob/master/images/.png">
+- [233 (Difícil) - Number of Digit One](https://leetcode.com/problems/number-of-digit-one/description/)
+<img width="734" alt="Number of Digit One" src="https://github.com/projeto-de-algoritmos-2024/PD_Leet.Code/blob/master/images/233.png">
 
 ## Instalação 
 **Linguagem**: Python<br>
@@ -46,10 +43,9 @@ git clone https://github.com/projeto-de-algoritmos-2024/PD_Leet.Code
 ```bash
 python3 10_regular_expression_matching.py
 python3 32_longest_valid_parentheses.py
-python3 818_race_car.py
-python3 76_minimum_window_substring.py
-python3 410_split_array_largest_sum.py
-python3 68_text_justification.py
+python3 85_maximal_rectangle.py
+python3 115_distinct_subsequences.py
+python3 233_number_of_digit_one.py
 ```
 
 ## Uso 
